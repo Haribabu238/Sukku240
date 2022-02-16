@@ -113,7 +113,7 @@
 
         <!-- JDBC Driver Versions -->
         <oracle.jdbc.driver.version>12.2.0.1</oracle.jdbc.driver.version>
-        <postgresql.jdbc.driver.version>42.2.5</postgresql.jdbc.driver.version>
+        <postgresql.jdbc.driver.version>42.3.3</postgresql.jdbc.driver.version>
 
         <!-- Project File Encodings -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
